@@ -1,4 +1,4 @@
-Proiect realizat in cadrul materiei Sisteme de Gestiune a Bazelor de Date
+# Descriere
 
 Prin intermediul proiectului implementez o bază de date care este concepută pentru a gestiona la nivel conceptual un magazin virtual 
 axat pe vânzarea de haine second-hand. Prin intermediul acestei aplicații utilizatorii au posibilitatea de a vinde și de a cumpăra produse, 
